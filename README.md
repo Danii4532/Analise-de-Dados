@@ -37,3 +37,26 @@ Com esse código, a pessoa não precisa abrir um arquivo diretamente no excel, e
 
 
 ## Como Executar
+No Windows <br>
+Se no computador tiver algum editor de codigo instalado como: Vs code, pycharm, etc.<br>
+Basta copiar e colar o código e executar<br>
+Caso não tenho um editor de código instalado<br>
+Abra o Prompt de comando(CMD):<br>
+Usando o comando 'cd', navegue ate a pasta em que o arquivo foi instalado<br>
+Digite<br>
+python Analise_Dados.py e Pressione Enter
+<br>
+
+No Linux <br>
+Abra um terminal<br>
+digite<br>
+git clone https://github.com/Danii4532/Analise-de-Dados.git<br>
+digite<br>
+cd Analise-de-Dados<br>
+python Analise_Dados.py
+<br>
+<br>
+## Complemento<br>
+No caso de aparecer algum bug na aplicação, me avise que eu corrigo, se tiverem alguma sugestão para o código, ficarei feliz em ouvir.<br>
+Obrigado.<br>
+Aproveite :D
