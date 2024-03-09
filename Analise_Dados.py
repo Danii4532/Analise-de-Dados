@@ -21,7 +21,6 @@ def salvar_planilha(arquivo):
         nome = input('Digite o nome da nova planilha: ') + extensao
         caminho = filedialog.askdirectory()
 
-        # Remova o índice nomeado, se houver
         arquivo.reset_index(drop=True, inplace=True)
 
         arquivo.to_excel(os.path.join(caminho, nome), index=False)
